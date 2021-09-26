@@ -11,11 +11,15 @@
   
 }
 .card:hover{
-  color: rgb(240, 248, 245);
-  background-color: rgb(116, 119, 119);
+  color: rgb(33, 36, 35);
+  background-color: rgb(221, 221, 218);
 }
 .card img{
   height: 300px;
+}
+.card-images:hover{
+cursor: pointer;
+transition: cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 
 .btn-addToCart{

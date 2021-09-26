@@ -1,9 +1,14 @@
 import React, { useEffect, useState } from 'react';
+import Cart from '../Cart/Cart';
 import Member from '../Member2/Member';
 import './Members.css';
 
 const Members = () => {
   const [members, setMembers] = useState([]);
+  const [cart, setCart] =useState([]);
+
+
+
   useEffect(() => {
     fetch('./members.JSON')
     .then(res => res.json())
@@ -12,6 +17,8 @@ const Members = () => {
 
 const handleAddToCart = (member) => {
   console.log(member.name);
+  const newCart = [...cart, member];
+  setCart(newCart);
   
 }
 
@@ -32,8 +39,7 @@ const handleAddToCart = (member) => {
         }
       </div>
       <div className="cart-container">
-        <h1>Members Added: </h1>
-        <h1> Total Member : </h1>
+        <Cart cart={cart}></Cart>
         <button style={{backgroundColor: 'green', margin:'10px',padding:'10px'}}>Buy Now</button>
       </div>
     </div>
