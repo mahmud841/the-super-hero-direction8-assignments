@@ -6,8 +6,24 @@
   border-radius: 5px;
   cursor: pointer;
 }
-.card-container{
-  background-color: rgb(228, 167, 167);
-  display: grid;
-  grid-template-rows: (3fr, 1fr);
+.card{
+  width: 110%;
+  
+}
+.card:hover{
+  color: rgb(240, 248, 245);
+  background-color: rgb(116, 119, 119);
+}
+.card img{
+  height: 300px;
+}
+
+.btn-addToCart{
+  background-color: goldenrod;
+  width: 150px;
+  height: 35px;
+  border: 1px solid lightslategray;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 5px;
 }

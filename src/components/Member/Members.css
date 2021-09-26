@@ -1,5 +1,22 @@
+body{
+  background-color: rgba(179, 189, 201, 0.356);
+}
+h1{
+  color: rgb(70, 105, 105);
+}
+
 .members-container{
-  /* display: grid; */
-  display: flex;
+  display: grid;
   grid-template-columns: 3fr 1fr;
+  color: black;
+  
+}
+
+.members-container .member-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 5%;
+  grid-row-gap: 2%;
+   padding: 50px; 
+   
 }

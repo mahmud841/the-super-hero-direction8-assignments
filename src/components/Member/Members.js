@@ -9,11 +9,26 @@ const Members = () => {
     .then(res => res.json())
     .then(data => setMembers(data))
   },[])
+
+const handleAddToCart = (member) => {
+  console.log(member.name);
+  
+}
+
+
+
+
+
   return (
     <div className="members-container">
       <div className="member-container">
         {
-          members.map(member => <Member member={member}></Member>)
+          members.map(member => <Member 
+            key={member.name}
+            member={member}
+            handleAddToCart={handleAddToCart}
+            >
+            </Member>)
         }
       </div>
       <div className="cart-container">
