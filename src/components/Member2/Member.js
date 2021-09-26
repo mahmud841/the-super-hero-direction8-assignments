@@ -5,7 +5,6 @@ import { faFacebook, faGithub, faTwitter,  } from '@fortawesome/free-brands-svg-
 import './Member.css';
 
 const Member = (props) => {
-  // console.log(props);
   const { name, img, roll, Age, country, Salary } = props.member;
   return (
 
@@ -14,11 +13,11 @@ const Member = (props) => {
       <img src={img} className="card-img-top img-fluid" alt="..."></img>
       </div>
       <div className="card-body">
-        <h5>{name}</h5>
-        <h3>Roll: {roll} </h3>
-        <h3>Age:{Age} </h3>
+        <h3>Name:{name}</h3>
+        <h4>Roll: {roll} </h4>
+        <h4>Age:{Age} </h4>
         <h5>Country:{country} </h5>
-        <h3>Salary:{Salary} </h3>
+        <h5>Salary:{Salary} </h5>
         <div className="awesome-icon">
         <FontAwesomeIcon className="me-2" size='2x' icon={faFacebook}/>
         <FontAwesomeIcon className="me-2" size='2x' icon={faTwitter}/>

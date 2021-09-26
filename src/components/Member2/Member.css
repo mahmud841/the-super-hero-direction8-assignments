@@ -1,25 +1,19 @@
-.btn-addToCart{
-  background-color: goldenrod;
-  width: 150px;
-  height: 30px;
-  border: 1px solid lightgray;
-  border-radius: 5px;
-  cursor: pointer;
-}
 .card{
-  width: 110%;
+  width: 111%;
+  color: rgb(71, 78, 78);
   
 }
 .card:hover{
-  color: rgb(33, 36, 35);
-  background-color: rgb(221, 221, 218);
+  color: rgb(14, 85, 63);
+  background-color: rgb(247, 247, 197);
+  font-style: italic;
 }
 .card img{
   height: 300px;
 }
 .card-images:hover{
 cursor: pointer;
-transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+color: lightcoral;
 }
 
 .btn-addToCart{
@@ -29,10 +23,15 @@ transition: cubic-bezier(0.075, 0.82, 0.165, 1);
   border: 1px solid lightslategray;
   border-radius: 5px;
   cursor: pointer;
-  margin-bottom: 5px;
+  margin-bottom: 7px;
+  padding-bottom: 5px;
+}
+
+.btn-addToCart:hover{
+  color: rgb(248, 240, 230);
+  background-color: rgb(155, 39, 18);
 }
 .awesome-icon{
   padding: 5px;
-  margin: 15px;
-  
+  margin: 15px;  
 }
