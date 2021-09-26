@@ -1,5 +1,5 @@
 # Name
-Link Text [Link](https://cabinet-membersbd.netlify.app).
+Link Text [https://cabinet-membersbd.netlify.app](https://cabinet-membersbd.netlify.app).
 
 ## About: 
 * Bullet 0: (1)If higher unemployment is the price, we have to pay in order to bring inflation down, then it is a price worth paying.  (2)It does strange things to you to realize that the conservative establishment is forcing you to be a progressive liberal fighter for universal rights
