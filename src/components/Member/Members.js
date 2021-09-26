@@ -40,7 +40,7 @@ const handleAddToCart = (member) => {
       </div>
       <div className="cart-container">
         <Cart cart={cart}></Cart>
-        <button style={{backgroundColor: 'green', margin:'10px',padding:'10px'}}>Buy Now</button>
+        <button style={{backgroundColor: 'green', margin:'10px',padding:'10px'}}>Build Commettie </button>
       </div>
     </div>
   );

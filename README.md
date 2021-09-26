@@ -1,70 +1,12 @@
-# Getting Started with Create React App
+# Name
+Link Text [Link](https://github.com/facebook/create-react-app).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About: 
+* Bullet 0: (1)If higher unemployment is the price, we have to pay in order to bring inflation down, then it is a price worth paying.  (2)It does strange things to you to realize that the conservative establishment is forcing you to be a progressive liberal fighter for universal rights
 
-## Available Scripts
+* Bullet 1:The Cabinet of Bangladesh (Bengali: বাংলাদেশের মন্ত্রিসভা – Bānglādēśēr Mantri'sabhā) is the chief executive body of the People's Republic of Bangladesh. The Cabinet is the collective decision-making body of the entire government under the Office of the Prime Minister, composed of the Prime Minister and some 25 Cabinet Ministers, 7 Advisers, 18 State Ministers and 3 Deputy Ministers.
 
-In the project directory, you can run:
+* Bullet 2: Ministers of the government, according to the Constitution of Bangladesh, are selected primarily from the elected members of House of Nation, also known as Jatiya Sangsad. Cabinet Ministers are heads of government departments, mostly with the office of the "Minister of [department, e.g. Defence]". The collective co-ordinating function of the Cabinet is reinforced by the statutory position that all the Ministers jointly hold the same office, and can exercise the same powers.
 
-### `npm start`
+* Bullet 3: There shall be a Cabinet for Bangladesh having the Prime Minister at its head and comprising also such other Ministers as the Prime Minister may from time to time designate. The executive power of the Republic shall, in accordance with this Constitution, be exercised by or on the authority of the Prime Minister. The Cabinet shall be collectively responsible to Parliament. All executive actions of the Government shall be expressed to be taken in the name of the President. The President shall by rules specify the manner in which orders and other instruments made in his name shall be attested or authenticated, and the validity of any order or instrument so attested or authenticated shall not be questioned in any court on the ground that it was not duly made or executed. The President shall make rules for the allocation and transaction of the business of the Government.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

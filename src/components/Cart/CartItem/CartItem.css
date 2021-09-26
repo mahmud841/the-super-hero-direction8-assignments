@@ -1,0 +1,8 @@
+.political-figure{
+  color: rgb(51, 49, 46);
+  font-style: italic;
+  font-size: medium;
+  border: 1px solid black;
+  padding: 8px;
+  margin-top: 10px;
+}

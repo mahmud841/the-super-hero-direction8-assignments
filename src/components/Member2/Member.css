@@ -31,3 +31,8 @@ transition: cubic-bezier(0.075, 0.82, 0.165, 1);
   cursor: pointer;
   margin-bottom: 5px;
 }
+.awesome-icon{
+  padding: 5px;
+  margin: 15px;
+  
+}
