@@ -1,0 +1,13 @@
+.btn-addToCart{
+  background-color: goldenrod;
+  width: 150px;
+  height: 30px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.card-container{
+  background-color: rgb(228, 167, 167);
+  display: grid;
+  grid-template-rows: (3fr, 1fr);
+}

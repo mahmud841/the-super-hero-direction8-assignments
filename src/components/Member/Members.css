@@ -1,0 +1,5 @@
+.members-container{
+  /* display: grid; */
+  display: flex;
+  grid-template-columns: 3fr 1fr;
+}
